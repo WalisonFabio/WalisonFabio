@@ -1,8 +1,8 @@
-## Ola eu sou o Walison Fábio, desenvolvedor Front-End!
+## Olá eu sou o Walison Fábio, Desenvolvedor Front-End!
 
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=walisonfabio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisonfabio&layout=compact&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=walisonfabio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisonfabio&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
